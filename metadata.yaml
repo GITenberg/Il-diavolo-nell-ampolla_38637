@@ -1,0 +1,33 @@
+_repo: Il-diavolo-nell-ampolla_38637
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38637-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Albertazzi, Adolfo
+    alias: Albertazzi
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '39080'
+    url: http://www.gutenberg.org/2009/agents/39080
+    wikipedia: http://it.wikipedia.org/wiki/Adolfo_Albertazzi
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2012-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38637'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+tableOfContents: Le figurine -- Il camiciotto rosso -- La cassaforte di don Fiorenzo
+  -- La forfecchia -- La ciocchettina -- Il nido -- Ferdina -- Il chiodo -- Cinquantamila
+  lire -- La stella Sirio -- L'asino nel fiume -- Il diavolo nell'ampolla.
+title: Il diavolo nell'ampolla
+url: http://www.gutenberg.org/ebooks/38637
